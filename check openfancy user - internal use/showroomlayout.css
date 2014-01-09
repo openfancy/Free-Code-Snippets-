@@ -1,0 +1,14 @@
+* {
+margin: 0;
+}
+html, body {
+height: 100%;
+}
+.wrapper {
+min-height: 50%;
+height: 60%;
+margin: 0 auto;
+padding: 0.85em
+}
+.footer, .push {
+height: 1px;
