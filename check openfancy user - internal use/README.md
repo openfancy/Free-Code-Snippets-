@@ -2,8 +2,8 @@ openfancy
 =========
 
 
-Willkommen zu unser Source Code Snippet Area.
+mit diesem Code könnt ihr unsere UserStatus Seite nachbauen. Ersetzt die Daten einfach mit eurer Datenbank oder, wenn ihr auf unsere zugreifen wollt, stellt eine Anfrage an: fboegge@gmail.com :-]
 
-Wir stellen euch Original Code zur Verfügung mit dem ihr die ein oder andere Seite nachbauen könnt! Wenn ihr etwas bestimmtes haben wollt, dann sagt Bescheid! Ansonsten gibt es ab und zu immer Mal ein paar nette Sachen aus unserer Trickkiste ;-]
+Viel Spaß mit dem Code.
 
 We believe in an open and connected world, made by our fancy.
